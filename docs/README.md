@@ -1,6 +1,6 @@
-### NET Centric Computing Syllabus
+# NET Centric Computing Syllabus
 
-1. Language Preliminaries
++ [1. Language Preliminaries](unit-1.md)
 
     Introduction to .Net framework,
     Compilation and execution of .Net applications, Basic Languages constructs, Constructor, Properties, Arrays and String, Indexers, Inheritance, use of “base” keyword, Method hiding and overriding, applying polymorphism in code extensibility, structs and enums, abstract class sealed class, interface, Delegate and Events, Partial class, Collections, Generics, File IO, LINQ (Language Integrated Query) Fundamentals: Lambda Expressions, Try statements and Exceptions, Attributes: Attribute Classes, Named and Positional Attribute Parameters, Attribute Targets, Specifying Multiple Attributes, Asynchronous Programming: Principle of Asynchrony, Async/Await patterns in C#
