@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "deC4qtAD5Lp6hn4me7p1Wdrd2xj2WwbJ4+p5IOWMLiVzlDPqOZqXMLy1R/iniClPwwOOvt1SCh+OwIRGmh2Jgw==",
+  "dgSpecHash": "PcVLyUWb3T8NgChLuk/k3q4svkThRRtJ1oE03Ubr+Ag4a2tfJjVFmrEZ7VjbhJyDwG+8Et6f4CcyjRmYHB1hyw==",
   "success": true,
-  "projectFilePath": "/home/subash/dotNet/dotNet.csproj",
+  "projectFilePath": "/home/subash/dotNet/basic_dot_net/dotNet.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
