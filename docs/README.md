@@ -1,6 +1,6 @@
 # NET Centric Computing Syllabus
 
-+ [1. Language Preliminaries](unit-1.md)
+### [1. Language Preliminaries](unit-1.md)
 
     Introduction to .Net framework,
     Compilation and execution of .Net applications, Basic Languages constructs, Constructor, Properties, Arrays and String, Indexers, Inheritance, use of “base” keyword, Method hiding and overriding, applying polymorphism in code extensibility, structs and enums, abstract class sealed class, interface, Delegate and Events, Partial class, Collections, Generics, File IO, LINQ (Language Integrated Query) Fundamentals: Lambda Expressions, Try statements and Exceptions, Attributes: Attribute Classes, Named and Positional Attribute Parameters, Attribute Targets, Specifying Multiple Attributes, Asynchronous Programming: Principle of Asynchrony, Async/Await patterns in C#
@@ -24,7 +24,6 @@ ADO.NET basics: Connection, Command, Reader and Adapter classes, Entity Framewor
 6. State Management on ASP.NET Core Application
 
 State Management on stateless HTTP, Server-side strategies: Session State, TempData, Using HttpContext, Cache Client-side strategies: Cookies, Query Strings, Hidden Fields
-
 
 7. Client-side Development in ASP.NET Core
 
